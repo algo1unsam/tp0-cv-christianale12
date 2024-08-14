@@ -1,5 +1,5 @@
 # TP0-CV
-# hola
-## hola
-### hola
-![compu](C:\Users\Pamela-PC\Desktop\tp0\tp0-cv-christianale12)
+# ALGORITMOS 1 
+## tp numero 0
+### hola soy leon caceres christian
+![![compu](300_movie-wallpaper-400x240.jpg)]
